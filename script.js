@@ -75,6 +75,21 @@ const teams = [
             { question: "¿?", answer: "sí" },
             { question: "¿?", answer: "sí" }
         ]
+    },
+
+  {
+        name: "",
+        description: "",
+        image: ".png",
+        questions: [
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" }
+        ]
+      },
+       
 
     
     
