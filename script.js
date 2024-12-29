@@ -50,6 +50,32 @@ const teams = [
             { question: "¿Es uno de los clubes más exitosos en competiciones internacionales?", answer: "sí" }
         ]
     },
+
+    {
+        name: "El nacional",
+        description: "El Club Nacional, un equipo que representa la pasión y el espíritu deportivo ecuatoriano",
+        image: ".png",
+        questions: [
+            { question: "¿Su color representativo es el Rojo?", answer: "sí" },
+            { question: "¿Campeón de la Copa Ecuador 2024?", answer: "sí" },
+            { question: "¿Conocido como Los Puros Criollos?", answer: "sí" },
+            { question: "¿Su estadio se llama Olímpico Atahualpa?", answer: "sí" },
+            { question: "¿Su primer campeonatonacional fue en 1967?", answer: "sí" }
+        ]
+    },
+
+    {
+        name: "",
+        description: "",
+        image: ".png",
+        questions: [
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" }
+        ]
+
     
     
     // Agregar más equipos aquí...
