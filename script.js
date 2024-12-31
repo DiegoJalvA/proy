@@ -79,9 +79,7 @@ const teams = [
 
   {
         name: "Orense",
-        description: "Orense, un equipo que refleja el crecimiento y la pasión por el fútbol en Ecuador.
-
-",
+        description: "Orense, un equipo que refleja el crecimiento y la pasión por el fútbol en Ecuador.",
         image: ".png",
         questions: [
             { question: "¿Su sede es en la cuidad de Machala?", answer: "sí" },
@@ -93,6 +91,32 @@ const teams = [
       },
 
   {
+        name: "Mushuc Runa",
+        description: "Mushuc Runa, un equipo ecuatoriano que simboliza identidad indígena y pasión por el fútbol.",
+        image: ".png",
+        questions: [
+            { question: "¿Su sede esta en Ambato?", answer: "sí" },
+            { question: "¿Es conocido como el equipo del pueblo?", answer: "sí" },
+            { question: "¿Fue el primer equipo indígena en jugar en la serie A de Ecuador?", answer: "sí" },
+            { question: "¿Su nombre significa HOMBRE NUEVO en quichua?", answer: "sí" },
+            { question: "¿Su estadio esta ubicado más de 3,200 metros a nivel del mar?", answer: "sí" }
+        ]
+      },
+
+      {
+        name: "Libertad",
+        description: "Libertad Fútbol Club,es un equipo de Loja con una larga historia en el fútbol ecuatoriano.",
+        image: ".png",
+        questions:[
+         { question: "¿Su sede está en la ciudad de Loja?", "answer": "sí" },
+         { question: "¿Juega en la Serie A de Ecuador?", "answer": "sí" },
+         { question: "¿Fue campeón del Ascenco Nacional en 2021?", "answer": "sí" },
+         { question: "¿Su estadio se llama Reina del Cisne?", "answer": "sí" },
+         { question: "¿Es conocido como 'Orgullo Lojano'?", "answer": "sí" },
+         { question: "¿Es considerado uno de los equipos tradicionales de Loja?", "answer": "sí" }
+        ]
+      }, 
+       {
         name: "",
         description: "",
         image: ".png",
@@ -104,7 +128,6 @@ const teams = [
             { question: "¿?", answer: "sí" }
         ]
       },
-       
 
     
     
