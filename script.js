@@ -157,7 +157,7 @@ const teams = [
 
   {
         name: "Club Social y Deportivo Macará",
-        description: "",
+        description: "El Club Social y Deportivo Macará, con sede en Ambato, conocido por su fiel hinchada y sus colores rojo y blanco.",
         image: ".png",
         questions: [
            { question: ¿Su sede está en la ciudad de Ambato?, answer: sí },
