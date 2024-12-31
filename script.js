@@ -65,17 +65,32 @@ const teams = [
     },
 
     {
-        name: "",
-        description: "",
+        name: "Universidad Católica",
+        description: "La Universidad Católica, un equipo que encarna la fe, la pasión y el espíritu deportivo ecuatoriano",
         image: ".png",
         questions: [
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" }
+           { question: "¿Su color representativo es el azul?", "answer": "sí" },
+           { question: "¿Es conocido como el Trencito Azul?", "answer": "sí" },
+           { question: "¿Juega en el estadio Olímpico Atahualpa?", "answer": "sí" },
+           { question: "¿Fue fundado en 1963?", "answer": "sí" },
+           {question: "¿Compite en la Serie A de Ecuador?", "answer": "sí" }
         ]
     },
+
+  {
+        name: "Orense",
+        description: "Orense, un equipo que refleja el crecimiento y la pasión por el fútbol en Ecuador.
+
+",
+        image: ".png",
+        questions: [
+            { question: "¿Su sede es en la cuidad de Machala?", answer: "sí" },
+            { question: "¿El equipo compite en la serie A de Ecuador?", answer: "sí" },
+            { question: "¿Es conocido como el Bananero?", answer: "sí" },
+            { question: "¿Su color representativoes el verde?", answer: "sí" },
+            { question: "¿Va a jugar su primera competición internacional?", answer: "sí" }
+        ]
+      },
 
   {
         name: "",
