@@ -144,7 +144,7 @@ const teams = [
       },
   {
         name: "Sociedad Deportiva Aucas",
-        description: "",
+        description: "Sociedad Deportiva Aucas con sede en Quito y conocido por su apasionada hinchada y sus colores rojo y amarillo.",
         image: ".png",
         questions: [
            { question: ¿Es conocido como los 'Orientales'?, answer: sí },
