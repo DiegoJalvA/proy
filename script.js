@@ -182,11 +182,16 @@ const teams = [
       },
 
   {
-        name: "",
+        name: "Imbabura Sporting Club",
         description: "",
         image: ".png",
         questions: [
-            
+            { question: ¿Su sede está en la ciudad de Ibarra?, answer: sí },
+            { question: ¿Es conocido por el apodo de 'Los Jardineros'?, answer: sí },
+            { question: ¿Los colores principales del club son verde y blanco?, answer: sí },
+            { question: ¿El club tiene una hinchada leal principalmente en la provincia de Imbabura?, answer: sí },
+            { question: ¿El nombre 'Jardineros' se debe a la tradición agrícola de la región?, answer: sí }
+
         ]
       },
 
