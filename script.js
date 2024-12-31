@@ -116,22 +116,30 @@ const teams = [
          { question: "¿Es considerado uno de los equipos tradicionales de Loja?", "answer": "sí" }
         ]
       }, 
+
        {
         name: "Técnico Universitario",
         description: "Técnico Universitario, conocido como el "Rodillo Rojo",que representa la pasión futbolística de la ciudad.",
         image: ".png",
         questions: [
-  { question: ¿Técnico Universitario fue fundado en 1944?, answer: sí },
-  { question: ¿Su sede está en la ciudad de Ambato?, answer: sí },
-  { question: ¿Es conocido como el "Rodillo Rojo"?, answer: sí },
-  { question: ¿Juega en la Serie A de Ecuador?, answer: sí },
-  { question: ¿Su estadio se llama Bellavista?, answer: sí },
-  { question: ¿Sus colores representativos son el rojo y blanco?, answer: sí },
-  { question: ¿Técnico Universitario ha jugado competiciones internacionales?, answer: sí },
-  { question: ¿Es uno de los equipos más populares de Ambato?, answer: sí },
-  { question: ¿Ha ganado varios títulos en la Serie B de Ecuador?, answer: sí },
-  { question: ¿Su hinchada es conocida como "La Banda Roja"?, answer: sí }
-      
+              { question: ¿Su sede está en la ciudad de Ambato?, answer: sí },
+              { question: ¿Es conocido como el "Rodillo Rojo"?, answer: sí },
+              { question: ¿Es uno de los equipos más populares de Ambato?, answer: sí },
+              { question: ¿Ha ganado varios títulos en la Serie B de Ecuador?, answer: sí },
+              { question: ¿Su hinchada es conocida como "La Banda Roja"?, answer: sí }
+        ]
+      },
+
+  {
+        name: "Delfin FC",
+        description: "Delfín Fútbol Club, conocido por su pasión y éxito, especialmente en la Serie A y competiciones internacionales.",
+        image: ".png",
+        questions: [
+                  { question: ¿Su sede está en la ciudad de Manta?, answer: sí },
+                  { question: ¿Su estadio se llama Jocay?, answer: sí },
+                  { question: ¿Ha ganado la Serie A de Ecuador?, answer: sí },
+                  { question: ¿Sus colores representativos son el amarillo y azul?, answer: sí },
+                  { question: ¿Su apodo más conocido es El Cetáceo?, answer: sí }
         ]
       },
 
