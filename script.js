@@ -117,15 +117,21 @@ const teams = [
         ]
       }, 
        {
-        name: "",
-        description: "",
+        name: "Técnico Universitario",
+        description: "Técnico Universitario, conocido como el "Rodillo Rojo",que representa la pasión futbolística de la ciudad.",
         image: ".png",
         questions: [
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" }
+  { question: ¿Técnico Universitario fue fundado en 1944?, answer: sí },
+  { question: ¿Su sede está en la ciudad de Ambato?, answer: sí },
+  { question: ¿Es conocido como el "Rodillo Rojo"?, answer: sí },
+  { question: ¿Juega en la Serie A de Ecuador?, answer: sí },
+  { question: ¿Su estadio se llama Bellavista?, answer: sí },
+  { question: ¿Sus colores representativos son el rojo y blanco?, answer: sí },
+  { question: ¿Técnico Universitario ha jugado competiciones internacionales?, answer: sí },
+  { question: ¿Es uno de los equipos más populares de Ambato?, answer: sí },
+  { question: ¿Ha ganado varios títulos en la Serie B de Ecuador?, answer: sí },
+  { question: ¿Su hinchada es conocida como "La Banda Roja"?, answer: sí }
+      
         ]
       },
 
