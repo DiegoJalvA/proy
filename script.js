@@ -183,7 +183,7 @@ const teams = [
 
   {
         name: "Imbabura Sporting Club",
-        description: "",
+        description: "Imbabura Sporting Club, que se caracteriza por su tradición futbolística en la provincia de Imbabura y su hinchada fiel.",
         image: ".png",
         questions: [
             { question: ¿Su sede está en la ciudad de Ibarra?, answer: sí },
