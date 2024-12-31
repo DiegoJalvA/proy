@@ -170,7 +170,7 @@ const teams = [
 
   {
         name: "Club Deportivo Cuenca",
-        description: "",
+        description: "El Club Deportivo Cuenca, reconocido por su pasión deportiva y su gran hinchada.",
         image: ".png",
         questions: [    
              { question: ¿Su sede está en la ciudad de Cuenca?, answer: sí },
@@ -178,6 +178,15 @@ const teams = [
              { question: ¿El Club Deportivo Cuenca ha ganado la Serie A de Ecuador?, answer: sí },
              { question: ¿El Club Deportivo Cuenca ha tenido jugadores destacados que han sido parte de la selección ecuatoriana?, answer: sí },
              { question: ¿El club ha tenido una rivalidad histórica con el Deportivo Quito?, answer: sí }
+        ]
+      },
+
+  {
+        name: "",
+        description: "",
+        image: ".png",
+        questions: [
+            
         ]
       },
 
