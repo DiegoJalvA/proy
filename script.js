@@ -195,6 +195,18 @@ const teams = [
         ]
       },
 
+  {
+        name: "Cumbayá",
+        description: "Cumbayá Fútbol Club es un equipo de fútbol ecuatoriano, fundado en 2003, con sede en Cumbayá, reconocido por su apodo "Los Albos del Valle" y su enfoque en el desarrollo de jóvenes futbolistas.",
+        image: ".png",
+        questions: [
+              { question: ¿Su sede está en la ciudad de Cumbayá?, answer: sí },
+              { question: ¿Ha jugado en la Serie A de Ecuador?, answer: sí },
+              { question: ¿Ha tenido una rivalidad destacada con equipos de Quito?, answer: sí },
+              { question: ¿El club tiene una hinchada que ha crecido rápidamente en los últimos años?, answer: sí },
+        ]
+      },
+
     
     
     // Agregar más equipos aquí...
