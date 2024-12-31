@@ -168,6 +168,19 @@ const teams = [
         ]
       },
 
+  {
+        name: "Club Deportivo Cuenca",
+        description: "",
+        image: ".png",
+        questions: [    
+             { question: ¿Su sede está en la ciudad de Cuenca?, answer: sí },
+             { question: ¿Su estadio se llama Alejandro Serrano Aguilar?, answer: sí },
+             { question: ¿El Club Deportivo Cuenca ha ganado la Serie A de Ecuador?, answer: sí },
+             { question: ¿El Club Deportivo Cuenca ha tenido jugadores destacados que han sido parte de la selección ecuatoriana?, answer: sí },
+             { question: ¿El club ha tenido una rivalidad histórica con el Deportivo Quito?, answer: sí }
+        ]
+      },
+
     
     
     // Agregar más equipos aquí...
