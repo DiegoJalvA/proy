@@ -147,11 +147,11 @@ const teams = [
         description: "",
         image: ".png",
         questions: [
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" },
-            { question: "¿?", answer: "sí" }
+           { question: ¿Es conocido como los 'Orientales'?, answer: sí },
+           { question: ¿Su estadio se llama Olímpico Atahualpa?, answer: sí },
+           { question: ¿Ha ganado la Serie A de Ecuador?, answer: no },
+           { question: ¿El club tiene una de las hinchadas más apasionadas de Quito?, answer: sí },
+           { question: ¿Su apodo proviene de la palabra 'Auca', que significa 'hombre de la sierra' en quichua?, answer: sí }
         ]
       },
 
