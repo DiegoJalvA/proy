@@ -155,6 +155,19 @@ const teams = [
         ]
       },
 
+  {
+        name: "Club Social y Deportivo Macará",
+        description: "",
+        image: ".png",
+        questions: [
+           { question: ¿Su sede está en la ciudad de Ambato?, answer: sí },
+           { question: ¿Es conocido como los 'Ídolos del Centro'?, answer: sí },
+           { question: ¿Juega en la Serie A de Ecuador?, answer: sí },
+           { question: ¿El club tiene una hinchada fiel y numerosa en la región central del Ecuador?, answer: sí },
+           { question: ¿Su apodo proviene de su cercanía con la región central del país, especialmente Ambato?, answer: sí }
+        ]
+      },
+
     
     
     // Agregar más equipos aquí...
