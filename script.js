@@ -142,6 +142,18 @@ const teams = [
                   { question: ¿Su apodo más conocido es El Cetáceo?, answer: sí }
         ]
       },
+  {
+        name: "Sociedad Deportiva Aucas",
+        description: "",
+        image: ".png",
+        questions: [
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" },
+            { question: "¿?", answer: "sí" }
+        ]
+      },
 
     
     
